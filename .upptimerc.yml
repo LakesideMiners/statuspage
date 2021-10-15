@@ -22,6 +22,7 @@ status-website:
   baseUrl: /statuspage
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
+  theme: dark
   introTitle: "Red's Status."
   introMessage: This is the Status Page for the stuff of my server, just checks what status code is given, and other services I use or need to keep an eye on
   navbar:
