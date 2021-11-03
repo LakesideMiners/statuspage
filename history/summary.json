@@ -4,18 +4,20 @@
     "url": "https://redsserver.com",
     "icon": "https://favicons.githubusercontent.com/redsserver.com",
     "slug": "red-s-server-root",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 174,
     "timeDay": 148,
     "timeWeek": 178,
     "timeMonth": 174,
     "timeYear": 174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-03": 3
+    }
   },
   {
     "name": "TheLounge",
@@ -40,9 +42,9 @@
     "url": "https://rss.redsserver.com",
     "icon": "https://tt-rss.org/images/icon_classic_72.png",
     "slug": "tiny-tiny-rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 277,
     "timeMonth": 290,
     "timeYear": 290,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-03": 0
+    }
   },
   {
     "name": "Wikipedia En",
