@@ -4,19 +4,19 @@
     "url": "https://redsserver.com",
     "icon": "https://favicons.githubusercontent.com/redsserver.com",
     "slug": "red-s-server-root",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 409,
-    "timeWeek": 246,
-    "timeMonth": 227,
-    "timeYear": 205,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 479,
+    "timeDay": 7857,
+    "timeWeek": 2128,
+    "timeMonth": 698,
+    "timeYear": 479,
     "dailyMinutesDown": {
-      "2021-12-01": 1
+      "2021-12-01": 10
     }
   },
   {
