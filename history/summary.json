@@ -4,10 +4,10 @@
     "url": "https://redsserver.com",
     "icon": "https://favicons.githubusercontent.com/redsserver.com",
     "slug": "red-s-server-root",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
@@ -15,7 +15,9 @@
     "timeWeek": 246,
     "timeMonth": 227,
     "timeYear": 205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-01": 1
+    }
   },
   {
     "name": "TheLounge",
