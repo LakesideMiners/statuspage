@@ -22,9 +22,9 @@
     "url": "https://talk.redsserver.com",
     "icon": "https://thelounge.chat/favicon.ico",
     "slug": "the-lounge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 242,
     "timeMonth": 222,
     "timeYear": 199,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-02": 0
+    }
   },
   {
     "name": "TinyTinyRSS",
