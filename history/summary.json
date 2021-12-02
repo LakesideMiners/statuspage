@@ -4,19 +4,19 @@
     "url": "https://redsserver.com",
     "icon": "https://favicons.githubusercontent.com/redsserver.com",
     "slug": "red-s-server-root",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 473,
-    "timeDay": 294,
-    "timeWeek": 1940,
-    "timeMonth": 689,
-    "timeYear": 473,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 467,
+    "timeDay": 243,
+    "timeWeek": 1760,
+    "timeMonth": 673,
+    "timeYear": 467,
     "dailyMinutesDown": {
-      "2021-12-02": 15
+      "2021-12-02": 0
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://thelounge.chat/favicon.ico",
     "slug": "the-lounge",
     "status": "down",
-    "uptime": "99.14%",
-    "uptimeDay": "58.77%",
-    "uptimeWeek": "94.11%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "99.14%",
+    "uptime": "98.80%",
+    "uptimeDay": "41.85%",
+    "uptimeWeek": "91.69%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "98.80%",
     "time": 331,
     "timeDay": 1789,
     "timeWeek": 944,
     "timeMonth": 439,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2021-12-02": 594
+      "2021-12-02": 838
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://tt-rss.org/images/icon_classic_72.png",
     "slug": "tiny-tiny-rss",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "89.89%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.79%",
+    "uptime": "99.44%",
+    "uptimeDay": "72.97%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.44%",
     "time": 392,
     "timeDay": 1816,
     "timeWeek": 794,
     "timeMonth": 467,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2021-12-02": 146
+      "2021-12-02": 389
     }
   },
   {
