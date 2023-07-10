@@ -2,23 +2,7 @@
 owner: lakesideminers # Your GitHub organization or username, where this repository lives
 repo: statuspage # The name of this repository
 
-sites:
-  - name: Red's Server Root
-    url: https://redsserver.com
-  - name: TheLounge
-    url: https://talk.redsserver.com
-    icon: https://thelounge.chat/favicon.ico
-  - name: TinyTinyRSS
-    url: https://rss.redsserver.com
-    icon: https://tt-rss.org/images/icon_classic_72.png
-  - name: Wikipedia En
-    url: https://en.wikipedia.org
-    icon: https://en.m.wikipedia.org/static/favicon/wikipedia.ico
-  - name: Zoom Overall
-    url: https://status.zoom.us/api/v2/status.json
-    icon: https://st1.zoom.us/zoom.ico
-    __dangerous__body_degraded: "Partial System Outage"
-    __dangerous__body_down: "Major Service Outage"
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
